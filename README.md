@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors-Game
+# Rock Paper Scissors Game
 
 You are in a game of rock, paper and scissors :speak_no_evil:. This game is fun and exciting, it was designed based on an HTML, CSS and JavaScript tutorial :boom:
 
